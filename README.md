@@ -44,4 +44,4 @@ Analyzing exploits using pwntools
 
 Creating a basic malware scanner
 Writing a reverse shell script
-Automating penetration testing using Python
+Automating penetration testing using Python 
